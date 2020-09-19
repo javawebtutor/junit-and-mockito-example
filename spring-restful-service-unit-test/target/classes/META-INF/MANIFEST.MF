@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Restful Service Unit Testing
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: mukesh.bo.kumar
+Implementation-Vendor-Id: com.bytestree.restful
+Build-Jdk: 1.8.0_241
+Implementation-URL: http://projects.spring.io/spring-boot/spring-restf
+ ul-service-unit-test/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
